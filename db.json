@@ -1,0 +1,54 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "department": "Engineering",
+      "position": "Senior Software Engineer"
+    },
+    {
+      "id": "2",
+      "name": "Brian Smith",
+      "email": "brian.smith@example.com",
+      "department": "Sales",
+      "position": "Account Executive"
+    },
+    {
+      "id": "3",
+      "name": "Carla Gomez",
+      "email": "carla.gomez@example.com",
+      "department": "Human Resources",
+      "position": "HR Manager"
+    },
+    {
+      "id": "4",
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "department": "Marketing",
+      "position": "Marketing Specialist"
+    },
+    {
+      "id": "5",
+      "name": "Emma Wilson",
+      "email": "emma.wilson@example.com",
+      "department": "Finance",
+      "position": "Financial Analyst"
+    },
+    {
+      "id": "6",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "department": "Support",
+      "position": "Support Analyst"
+    },
+    {
+      "name": "Thiru",
+      "email": "ch@gmail.com",
+      "department": "IT",
+      "position": "Senior Technical Lead",
+      "id": "8G5KS1SYMf8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
